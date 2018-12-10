@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031735830285",
+    "firebase_url": "https://exceptiontracker-1937d.firebaseio.com",
+    "project_id": "exceptiontracker-1937d",
+    "storage_bucket": "exceptiontracker-1937d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031735830285:android:c84ca7fd01dbb38e",
+        "android_client_info": {
+          "package_name": "com.example.user.exceptiiontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031735830285-4dofn7oei7jdvtc78ca06denvu3mb21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPw40zoaXrNjlNpeGiaSXAG38HU7gTWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
